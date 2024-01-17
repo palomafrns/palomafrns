@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @palomafrns
-- 🌱 I’m currently Data Science;
+- 🌱 I’m currently learning Data Science;
 - 📫 How to reach me: https://www.linkedin.com/in/palomafrns/
