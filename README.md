@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @palomafrns
 - 🌱 I’m currently learning Data Science;
-- 📫 How to reach me: https://www.linkedin.com/in/palomafrns/
 
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">  
