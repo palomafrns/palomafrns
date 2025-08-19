@@ -5,15 +5,15 @@
 
 ---
 
-## 🚀 Sobre mim | About Me
-- 💼 Atualmente | Currently: **Analista de Business Intelligence Pleno – GBM Tech & Control**  
-- 🔎 Foco em | Focus on: **BI, Data Science, Machine Learning e Estatística Aplicada**  
-- 🛠️ Experiência em | Experience with: **Power BI, SQL, Python, PySpark, Git**  
-- 📍 Localização | Location: Brasil  
+## Sobre mim | About Me
+-  Atualmente | Currently: **BI Analyst PL**  
+- Foco em | Focus on: **BI, Data Science, Machine Learning e Estatística Aplicada**  
+- Experiência em | Experience with: **Power BI, SQL, Python, PySpark, Git**  
+- Localização | Location: Brasil  
 
 ---
 
-## 💡 Habilidades | Skills
+## Habilidades | Skills
 - **Ferramentas & Linguagens | Tools & Languages**: SQL | Python | PySpark | Power BI | Git  
 - **Áreas de Atuação | Fields of Work**: Business Intelligence | Data Analytics | Data Science | ETL | Automation  
 - **Destaques | Highlights**:  
@@ -23,18 +23,17 @@
 
 ---
 
-## 📂 Projetos | Projects
+## Projetos | Projects
 🔗 Em breve vou compartilhar projetos de | Soon I will share projects on:  
 - **EDA – Análise Exploratória de Dados | Exploratory Data Analysis**  
-- **Modelos de Machine Learning aplicados a negócios | Business-focused ML models**  
-- **Dashboards no Power BI | Power BI dashboards**  
+- **Modelos de Machine Learning aplicados a negócios | Business-focused ML models**   
 
 ---
 
-## 📫 Contato | Contact
+## Contato | Contact
 - 📧 **E-mail:** palomafrns@gmail.com  
 - 💼 **LinkedIn:** [linkedin.com/in/palomafrns](https://linkedin.com/in/palomafrns)  
 - 💻 **GitHub:** [github.com/palomafrns](https://github.com/palomafrns)  
 
 ---
-✨ Obrigada por visitar meu perfil! | Thank you for visiting my profile!
+Obrigada por visitar meu perfil! | Thank you for visiting my profile!
