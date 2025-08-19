@@ -8,7 +8,7 @@
 ## Sobre mim | About Me
 -  Atualmente | Currently: **BI Analyst PL**  
 - Foco em | Focus on: **BI, Data Science, Machine Learning e Estatística Aplicada**  
-- Experiência em | Experience with: **Power BI, SQL, Python, PySpark, Git**  
+- Experiência em | Experience with: **Power BI, SQL, Python**  
 - Localização | Location: Brasil  
 
 ---
@@ -24,7 +24,7 @@
 ---
 
 ## Projetos | Projects
-🔗 Em breve vou compartilhar projetos de | Soon I will share projects on:  
+Em breve vou compartilhar projetos de | Soon I will share projects on:  
 - **EDA – Análise Exploratória de Dados | Exploratory Data Analysis**  
 - **Modelos de Machine Learning aplicados a negócios | Business-focused ML models**   
 
@@ -33,7 +33,6 @@
 ## Contato | Contact
 - 📧 **E-mail:** palomafrns@gmail.com  
 - 💼 **LinkedIn:** [linkedin.com/in/palomafrns](https://linkedin.com/in/palomafrns)  
-- 💻 **GitHub:** [github.com/palomafrns](https://github.com/palomafrns)  
 
 ---
 Obrigada por visitar meu perfil! | Thank you for visiting my profile!
