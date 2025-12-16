@@ -1,6 +1,6 @@
-# 👋 Hello, I’m Paloma França Fernandes
+# Hello, I’m Paloma França Fernandes
 
-🎯 **Business Intelligence Analyst**  
+**Business Intelligence Analyst**  
 
 ---
 
@@ -12,7 +12,7 @@
 
 ---
 
-## Habilidades | Skills
+##  Skills
 -  Tools & Languages**: SQL | Python | PySpark | Power BI | Git  
 - Fields of Work**: Business Intelligence | Data Analytics | Data Science | ETL | Automation  
 - Highlights**:  
