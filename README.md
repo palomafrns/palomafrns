@@ -21,8 +21,3 @@
   - Automation of analytical processes  
 
 ---
-
-##  Projects
-Soon I will share projects on:  
-- Exploratory Data Analysis**  
-- Business-focused ML models**   
