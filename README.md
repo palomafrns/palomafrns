@@ -1,4 +1,4 @@
-# Hello, I’m Paloma França Fernandes
+# Hello, I’m Paloma
 
 **Business Intelligence Analyst**  
 
@@ -13,11 +13,16 @@
 ---
 
 ##  Skills
--  Tools & Languages**: SQL | Python | PySpark | Power BI | Git  
-- Fields of Work**: Business Intelligence | Data Analytics | Data Science | ETL | Automation  
-- Highlights**:  
+-  **Tools & Languages**: SQL | Python | PySpark | Power BI | Git  
+- **Fields of Work**: Business Intelligence | Data Analytics | Data Science | ETL | Automation  
+- **Highlights**:  
   - Interactive and visual dashboards  
   - Pattern detection in large datasets  
   - Automation of analytical processes  
 
 ---
+
+##  Projects
+Soon I will share projects on:  
+- Exploratory Data Analysis**  
+- Business-focused ML models**  
