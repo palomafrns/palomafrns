@@ -1,6 +1,6 @@
 # Hello, I’m Paloma
 
-**Business Intelligence Analyst**  
+**Data Analyst**  
 
 ---
 
@@ -13,16 +13,10 @@
 ---
 
 ##  Skills
--  **Tools & Languages**: SQL | Python | PySpark | Power BI | Git  
+-  **Tools & Languages**: SQL | Python | Power BI 
 - **Fields of Work**: Business Intelligence | Data Analytics | Data Science | ETL | Automation  
 - **Highlights**:  
   - Interactive and visual dashboards  
   - Pattern detection in large datasets  
   - Automation of analytical processes  
 
----
-
-##  Projects
-Soon I will share projects on:  
-- Exploratory Data Analysis**  
-- Business-focused ML models**  
