@@ -6,7 +6,7 @@
 
 ## About Me
 - Currently: **BI Analyst PL**  
-- Focus on: **BI, Data Science, Machine Learning e  Statistical Testing**  
+- Focus on: **Data Analytics, Data Science, Machine Learning**  
 - Experience with: **Power BI, SQL, Python**  
 - Location: Brasil  
 
