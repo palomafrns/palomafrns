@@ -1,12 +1,12 @@
-# Hello, I’m Paloma
+# hi, I’m Paloma
 
-**Data Analyst | Data Engineer**  
+**data analyst | data engineer**  
 
 ##  Skills
--  **Tools & Languages**: SQL | Python | Power BI 
-- **Fields of Work**: Data Analytics | Data Engineering | Data Science 
-- **Highlights**:  
-  - Interactive and visual dashboards  
-  - Pattern detection in large datasets  
-  - Automation of analytical processes  
+-  **tools & languages**: SQL | Python | Power BI 
+- **fields of work**: Data Analytics | Data Engineering | Data Science 
+- **highlights**:  
+  - interactive and visual dashboards  
+  - pattern detection in large datasets  
+  - automation of analytical processes  
 
