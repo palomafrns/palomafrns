@@ -4,7 +4,7 @@
 
 ##  Skills
 -  **Tools & Languages**: SQL | Python | Power BI 
-- **Fields of Work**: Data Analytics | Data Engineer | Data Science 
+- **Fields of Work**: Data Analytics | Data Engineering | Data Science 
 - **Highlights**:  
   - Interactive and visual dashboards  
   - Pattern detection in large datasets  
