@@ -1,6 +1,6 @@
 # hi, I’m Paloma
 
-**data analyst | data engineer**  
+**data analyst | data scientist**  
 
 ##  Skills
 -  **tools & languages**: SQL | Python | Power BI 
